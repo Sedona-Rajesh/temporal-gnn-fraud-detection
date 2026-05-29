@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset
+elliptic_bitcoin_dataset/
+
+# Generated Outputs
+outputs/
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
