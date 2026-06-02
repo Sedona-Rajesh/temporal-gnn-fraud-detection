@@ -1,7 +1,7 @@
-torch
-torch-geometric
-pandas
 numpy
+pandas
 scikit-learn
+scipy
+networkx
 matplotlib
 seaborn

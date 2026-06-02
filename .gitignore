@@ -13,7 +13,8 @@ venv/
 .idea/
 
 # Dataset
-elliptic_bitcoin_dataset/
+data/raw/
+data/processed/
 
 # Generated Outputs
 outputs/
